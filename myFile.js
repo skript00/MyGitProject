@@ -1,0 +1,1 @@
+const arr = [ 'one', 'line', 'of', 'code' ]; console.log(arr);
